@@ -13,7 +13,7 @@ A simple desktop To-Do List application built using Python and Tkinter.
 ## 🛠️ Tech Used
 - Python
 - Tkinter
-
+Developed By Darshil Golaniya
 ## ▶️ Run Project
 
 ```bash
